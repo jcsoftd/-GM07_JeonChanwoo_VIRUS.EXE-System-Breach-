@@ -1,0 +1,887 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.modal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.modal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.minigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.minigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.enemyart.normal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.enemyart.normal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.enemyart.elite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.enemyart.elite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.enemyart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.enemyart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.enemyart.boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.enemyart.boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.ending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.ending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.cutscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.cutscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\game\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:game\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\datagrid\\signalgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:datagrid\\signalgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\datagrid\\nodetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:datagrid\\nodetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\datagrid\\gridnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:datagrid\\gridnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\core\\textutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:core\\textutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\core\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:core\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\core\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:core\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\characters\\virusmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:characters\\virusmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\characters\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:characters\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\characters\\combatentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:characters\\combatentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\upgrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\upgrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\titlemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\titlemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\skillbalancedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\skillbalancedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\rewardresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\rewardresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\rewardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\rewardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\randomeventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\randomeventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\payloadmutationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\payloadmutationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\minigamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\minigamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\items\\shopstockgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\items\\shopstockgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\items\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\items\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\items\\itempooltier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\items\\itempooltier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\items\\itempoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\items\\itempoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\items\\itemnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\items\\itemnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\items\\itemgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\items\\itemgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\items\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\items\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\systems\\items\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:systems\\items\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\modalsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\modalsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\modalinputmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\modalinputmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|d:\\jc program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\virusexe_systembreach_v56\\rendering\\consolerenderer.shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E871B-93E8-4FE0-9BB2-2AF8E09875D1}|VirusExe.SystemBreach.csproj|solutionrelative:rendering\\consolerenderer.shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 49,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ShopStockGenerator.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ShopStockGenerator.cs",
+              "RelativeDocumentMoniker": "Systems\\Items\\ShopStockGenerator.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ShopStockGenerator.cs",
+              "RelativeToolTip": "Systems\\Items\\ShopStockGenerator.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:09:24.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemType.cs",
+              "RelativeDocumentMoniker": "Systems\\Items\\ItemType.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemType.cs",
+              "RelativeToolTip": "Systems\\Items\\ItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:09:06.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ItemPoolTier.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemPoolTier.cs",
+              "RelativeDocumentMoniker": "Systems\\Items\\ItemPoolTier.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemPoolTier.cs",
+              "RelativeToolTip": "Systems\\Items\\ItemPoolTier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:08:57.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ItemPoolManager.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemPoolManager.cs",
+              "RelativeDocumentMoniker": "Systems\\Items\\ItemPoolManager.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemPoolManager.cs",
+              "RelativeToolTip": "Systems\\Items\\ItemPoolManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:08:50.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ItemNames.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemNames.cs",
+              "RelativeDocumentMoniker": "Systems\\Items\\ItemNames.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemNames.cs",
+              "RelativeToolTip": "Systems\\Items\\ItemNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:08:41.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ItemGrade.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemGrade.cs",
+              "RelativeDocumentMoniker": "Systems\\Items\\ItemGrade.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemGrade.cs",
+              "RelativeToolTip": "Systems\\Items\\ItemGrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:08:23.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ItemDatabase.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemDatabase.cs",
+              "RelativeDocumentMoniker": "Systems\\Items\\ItemDatabase.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemDatabase.cs",
+              "RelativeToolTip": "Systems\\Items\\ItemDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:08:14.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemData.cs",
+              "RelativeDocumentMoniker": "Systems\\Items\\ItemData.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Items\\ItemData.cs",
+              "RelativeToolTip": "Systems\\Items\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:08:08.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ModalSize.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ModalSize.cs",
+              "RelativeDocumentMoniker": "Rendering\\ModalSize.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ModalSize.cs",
+              "RelativeToolTip": "Rendering\\ModalSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:07:50.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ConsoleRenderer.Window.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Window.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.Window.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Window.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.Window.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:07:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ConsoleRenderer.Title.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Title.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.Title.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Title.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.Title.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:06:51.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ModalInputMode.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ModalInputMode.cs",
+              "RelativeDocumentMoniker": "Rendering\\ModalInputMode.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ModalInputMode.cs",
+              "RelativeToolTip": "Rendering\\ModalInputMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:06:16.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleRenderer.Modal.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Modal.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.Modal.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Modal.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.Modal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:06:01.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleRenderer.MiniGame.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.MiniGame.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.MiniGame.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.MiniGame.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.MiniGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:05:53.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleRenderer.Inventory.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Inventory.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.Inventory.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Inventory.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:05:46.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleRenderer.Grid.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Grid.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.Grid.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Grid.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.Grid.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:05:00.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleRenderer.EnemyArt.Normal.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.EnemyArt.Normal.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.EnemyArt.Normal.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.EnemyArt.Normal.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.EnemyArt.Normal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:04:39.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleRenderer.EnemyArt.Elite.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.EnemyArt.Elite.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.EnemyArt.Elite.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.EnemyArt.Elite.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.EnemyArt.Elite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:03:58.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleRenderer.EnemyArt.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.EnemyArt.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.EnemyArt.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.EnemyArt.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.EnemyArt.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:03:51.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsoleRenderer.Ending.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Ending.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.Ending.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Ending.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.Ending.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:03:26.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsoleRenderer.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:18:23.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:17:16.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpgradeManager.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\UpgradeManager.cs",
+              "RelativeDocumentMoniker": "Systems\\UpgradeManager.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\UpgradeManager.cs",
+              "RelativeToolTip": "Systems\\UpgradeManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwEgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:17:08.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TitleMenuManager.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\TitleMenuManager.cs",
+              "RelativeDocumentMoniker": "Systems\\TitleMenuManager.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\TitleMenuManager.cs",
+              "RelativeToolTip": "Systems\\TitleMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:17:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SkillBalanceData.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\SkillBalanceData.cs",
+              "RelativeDocumentMoniker": "Systems\\SkillBalanceData.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\SkillBalanceData.cs",
+              "RelativeToolTip": "Systems\\SkillBalanceData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:16:53.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShopManager.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\ShopManager.cs",
+              "RelativeDocumentMoniker": "Systems\\ShopManager.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\ShopManager.cs",
+              "RelativeToolTip": "Systems\\ShopManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:16:46.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RewardResult.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\RewardResult.cs",
+              "RelativeDocumentMoniker": "Systems\\RewardResult.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\RewardResult.cs",
+              "RelativeToolTip": "Systems\\RewardResult.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:16:37.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RewardManager.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\RewardManager.cs",
+              "RelativeDocumentMoniker": "Systems\\RewardManager.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\RewardManager.cs",
+              "RelativeToolTip": "Systems\\RewardManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:16:31.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RandomEventManager.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\RandomEventManager.cs",
+              "RelativeDocumentMoniker": "Systems\\RandomEventManager.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\RandomEventManager.cs",
+              "RelativeToolTip": "Systems\\RandomEventManager.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAIwA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:16:04.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PayloadMutationManager.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\PayloadMutationManager.cs",
+              "RelativeDocumentMoniker": "Systems\\PayloadMutationManager.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\PayloadMutationManager.cs",
+              "RelativeToolTip": "Systems\\PayloadMutationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:15:47.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MiniGameManager.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\MiniGameManager.cs",
+              "RelativeDocumentMoniker": "Systems\\MiniGameManager.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\MiniGameManager.cs",
+              "RelativeToolTip": "Systems\\MiniGameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:15:37.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Inventory.cs",
+              "RelativeDocumentMoniker": "Systems\\Inventory.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\Inventory.cs",
+              "RelativeToolTip": "Systems\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T22:15:28.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EnemyFactory.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\EnemyFactory.cs",
+              "RelativeDocumentMoniker": "Systems\\EnemyFactory.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\EnemyFactory.cs",
+              "RelativeToolTip": "Systems\\EnemyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:57:15.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\BattleManager.cs",
+              "RelativeDocumentMoniker": "Systems\\BattleManager.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Systems\\BattleManager.cs",
+              "RelativeToolTip": "Systems\\BattleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:45:58.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Game\\GameState.cs",
+              "RelativeDocumentMoniker": "Game\\GameState.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Game\\GameState.cs",
+              "RelativeToolTip": "Game\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:26:00.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Game\\GameManager.cs",
+              "RelativeDocumentMoniker": "Game\\GameManager.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Game\\GameManager.cs",
+              "RelativeToolTip": "Game\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:20:45.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignalGrid.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\DataGrid\\SignalGrid.cs",
+              "RelativeDocumentMoniker": "DataGrid\\SignalGrid.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\DataGrid\\SignalGrid.cs",
+              "RelativeToolTip": "DataGrid\\SignalGrid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:16:18.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NodeType.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\DataGrid\\NodeType.cs",
+              "RelativeDocumentMoniker": "DataGrid\\NodeType.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\DataGrid\\NodeType.cs",
+              "RelativeToolTip": "DataGrid\\NodeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:15:52.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GridNode.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\DataGrid\\GridNode.cs",
+              "RelativeDocumentMoniker": "DataGrid\\GridNode.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\DataGrid\\GridNode.cs",
+              "RelativeToolTip": "DataGrid\\GridNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:15:34.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TextUtil.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Core\\TextUtil.cs",
+              "RelativeDocumentMoniker": "Core\\TextUtil.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Core\\TextUtil.cs",
+              "RelativeToolTip": "Core\\TextUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:03:19.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Core\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Core\\InputHelper.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Core\\InputHelper.cs",
+              "RelativeToolTip": "Core\\InputHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:02:44.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameConfig.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Core\\GameConfig.cs",
+              "RelativeDocumentMoniker": "Core\\GameConfig.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Core\\GameConfig.cs",
+              "RelativeToolTip": "Core\\GameConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:01:22.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VirusMutation.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Characters\\VirusMutation.cs",
+              "RelativeDocumentMoniker": "Characters\\VirusMutation.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Characters\\VirusMutation.cs",
+              "RelativeToolTip": "Characters\\VirusMutation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:00:52.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Characters\\Player.cs",
+              "RelativeDocumentMoniker": "Characters\\Player.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Characters\\Player.cs",
+              "RelativeToolTip": "Characters\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T20:53:28.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Characters\\Enemy.cs",
+              "RelativeDocumentMoniker": "Characters\\Enemy.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Characters\\Enemy.cs",
+              "RelativeToolTip": "Characters\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T20:52:10.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CombatEntity.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Characters\\CombatEntity.cs",
+              "RelativeDocumentMoniker": "Characters\\CombatEntity.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Characters\\CombatEntity.cs",
+              "RelativeToolTip": "Characters\\CombatEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T20:51:28.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleRenderer.EnemyArt.Boss.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.EnemyArt.Boss.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.EnemyArt.Boss.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.EnemyArt.Boss.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.EnemyArt.Boss.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAqwAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:40:43.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ConsoleRenderer.Shop.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Shop.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.Shop.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Shop.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:09:45.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsoleRenderer.Cutscene.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Cutscene.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.Cutscene.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Cutscene.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.Cutscene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T14:40:07.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleRenderer.Mutation.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Mutation.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.Mutation.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Mutation.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.Mutation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T13:39:59.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsoleRenderer.Battle.cs",
+              "DocumentMoniker": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Battle.cs",
+              "RelativeDocumentMoniker": "Rendering\\ConsoleRenderer.Battle.cs",
+              "ToolTip": "D:\\JC Program\\\uBD80\uD2B8\uCEA0\uD504\\\uACE8\uB4DC\uC2B9\uAE09\\VirusExe_SystemBreach_v56\\Rendering\\ConsoleRenderer.Battle.cs",
+              "RelativeToolTip": "Rendering\\ConsoleRenderer.Battle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T12:30:41.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
