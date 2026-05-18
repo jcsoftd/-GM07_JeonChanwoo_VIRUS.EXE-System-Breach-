@@ -197,7 +197,7 @@ VirusExe.SystemBreach/
 
 1. 저장소를 클론합니다.
 ```bash
-git clone https://github.com/jcsoftd/GM07_JeonChanwoo_VIRUS.EXE-System-Breach-.git
+git clone https://github.com/jcsoftd/-GM07_JeonChanwoo_VIRUS.EXE-System-Breach-.git
 ```
 
 2. Visual Studio 2022에서 `.sln` 파일을 열거나, 아래 명령어로 실행합니다.
