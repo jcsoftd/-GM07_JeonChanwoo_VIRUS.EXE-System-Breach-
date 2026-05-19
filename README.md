@@ -193,23 +193,6 @@ VirusExe.SystemBreach/
 
 ---
 
-## 🚀 실행 방법
-
-1. 저장소를 클론합니다.
-```bash
-git clone https://github.com/jcsoftd/-GM07_JeonChanwoo_VIRUS.EXE-System-Breach-.git
-```
-
-2. Visual Studio 2022에서 `.sln` 파일을 열거나, 아래 명령어로 실행합니다.
-```bash
-dotnet run
-```
-
-3. 실행 시 콘솔 창 크기가 자동으로 조정됩니다.
-
-> 빌드된 실행 파일로 바로 플레이하려면 `VirusExe_v56.zip`의 `.exe` 파일을 사용하세요.
-
----
 
 ## 💡 플레이 팁
 
